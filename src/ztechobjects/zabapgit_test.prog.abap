@@ -12,5 +12,6 @@ INITIALIZATION.
 "  Change 1 IN master Branch
 *-----------------------------------------------------------------------
 START-OF-SELECTION.
-
+"1. This line is added in SP02
+"2. This line is added in SP02
 END-OF-SELECTION.
