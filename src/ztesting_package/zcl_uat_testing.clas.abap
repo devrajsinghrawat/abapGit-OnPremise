@@ -7,7 +7,9 @@ public section.
 
   class-data GV_COUND type C .
   class-data GV_COUND_1 type C .
-  PROTECTED SECTION.
+protected section.
+
+  class-data GV_COUND_2 type C .
   PRIVATE SECTION.
 ENDCLASS.
 
