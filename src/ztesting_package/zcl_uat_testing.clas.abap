@@ -1,15 +1,17 @@
-CLASS zcl_uat_testing DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class ZCL_UAT_TESTING definition
+  public
+  final
+  create public .
 
-  PUBLIC SECTION.
-     CLASS-DATA gv_cound type C.
+public section.
+
+  class-data GV_COUND type C .
+  class-data GV_COUND_1 type C .
   PROTECTED SECTION.
   PRIVATE SECTION.
 ENDCLASS.
 
 
 
-CLASS zcl_uat_testing IMPLEMENTATION.
+CLASS ZCL_UAT_TESTING IMPLEMENTATION.
 ENDCLASS.
