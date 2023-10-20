@@ -1,0 +1,13 @@
+managed implementation in class zbp_i_rap_bbook unique;
+strict ( 2 );
+
+define behavior for ZI_RAP_BBOOK //alias <alias_name>
+persistent table zjp_rap_btickets
+lock master
+authorization master ( instance )
+//etag master <field_name>
+{
+  create;
+  update;
+  delete;
+}
